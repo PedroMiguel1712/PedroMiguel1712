@@ -1,4 +1,4 @@
-## Sobre mim ✨
+# Sobre mim ✨
 
 👋 Oi, me chamo Pedro Miguel  
 💬 Estou interessado em desenvolver meu conhecimento em programação e desenvolvimento de softwares.  
