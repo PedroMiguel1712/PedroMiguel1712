@@ -2,7 +2,7 @@
 
 👋 Oi, me chamo Pedro Miguel  
 💬 Estou interessado em desenvolver meu conhecimento em programação e desenvolvimento de softwares.  
-🤓 Atualmente cursando Engenharia de Software na PUC Minas.
+🤓 Atualmente cursando Engenharia de Software na PUC Minas.  
 👨‍💼 Estou procurando melhorar meus conhecimentos, e estagiar na área de desenvolvimento.  
 📫 Contato: instagram - @pedromiguelsd2 / Email: pedromiguelsd1712@gmail.com 
 
