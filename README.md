@@ -2,9 +2,9 @@
 
 👋 Oi, me chamo Pedro Miguel  
 💬 Estou interessado em desenvolver meu conhecimento em programação e desenvolvimento de softwares.  
-🤓 Atualmente realizando um curso tecnico de TI no Cotemig (3°ano).  
-👨‍💼 Estou procurando melhorar meus conhecimentos, e estagiar.  
-📫 Contato: instagram - @pedromiguelsd2 / Email: pedromiguelsd1712@gmail.com.  
+🤓 Atualmente cursando Engenharia de Software na PUC Minas.
+👨‍💼 Estou procurando melhorar meus conhecimentos, e estagiar na área de desenvolvimento.  
+📫 Contato: instagram - @pedromiguelsd2 / Email: pedromiguelsd1712@gmail.com 
 
 ## Redes Sociais
 
