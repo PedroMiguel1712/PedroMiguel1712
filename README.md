@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedromiguelsd2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-miguel-73288130a/) 
 
 ## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/C462666?style=flat&logo=unity&logoColor=white) 
+![C#](https://img.shields.io/badge/C%462666?style=flat&logo=unity&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-595913.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/Python-bfbf4b?style=for-the-badge&logo=python&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
