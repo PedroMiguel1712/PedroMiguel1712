@@ -13,7 +13,7 @@
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-99AAFF.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-595913.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/Python-bfbf4b?style=for-the-badge&logo=python&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-e0de31?style=for-the-badge&logo=python&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Php](https://img.shields.io/badge/Php-3f3a63?style=for-the-badge&logo=php&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
